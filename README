@@ -1,0 +1,1 @@
+This is my attempt to build a puzzle solver with The Rust Language, implementing A* search algorithm with Manhattan distance and number of steps as heuristic function, solely for practice purpose.
